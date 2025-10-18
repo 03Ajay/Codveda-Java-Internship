@@ -1,0 +1,21 @@
+Welcome to the File Processing Demo!
+
+This is a sample text file that contains multiple lines of text.
+We will analyze this content to demonstrate file handling capabilities.
+
+Key features being demonstrated:
+- Reading from files
+- Processing text content
+- Counting words and lines
+- Writing results to output files
+- Handling various file exceptions
+
+The program will count:
+1. Total number of lines
+2. Total number of words
+3. Total number of characters
+4. Number of blank lines
+5. Average words per line
+
+This comprehensive analysis showcases professional file handling in Java.
+Thank you for using our File Processor!
